@@ -1,4 +1,4 @@
-# AudioToText Setup Guide
+# Setup Guide
 
 Based on [AudioToText GitHub Repository](https://github.com/Carleslc/AudioToText)
 
