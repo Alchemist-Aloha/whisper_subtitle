@@ -1,5 +1,7 @@
 # Setup Guide
 
+Check my [explicit_util](https://github.com/Alchemist-Aloha/explicit_util). The transcription is now utilizing whisper.cpp and is almost 100% faster. 
+
 Based on [AudioToText GitHub Repository](https://github.com/Carleslc/AudioToText)
 
 This Jupyter notebook uses the original Whisper model, which is slower than `whisper.cpp` or `fasterwhisper`.
